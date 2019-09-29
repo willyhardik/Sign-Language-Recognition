@@ -12,4 +12,4 @@ Android App has tensorflowInterpreter library to use the tflite file for predict
 <img src="https://github.com/willyhardik/Sign-Language-Recognition/blob/master/Screenshot_2019-04-24-11-49-37-045_com.amitshekhar.tflite.png" height="500" width="250">
 
 
-<img src="https://github.com/willyhardik/Sign-Language-Recognition/blob/master/Screenshot_2019-04-24-11-49-37-045_com.amitshekhar.tflite.png" height="500" width="250">
+<img src="https://github.com/willyhardik/Sign-Language-Recognition/blob/master/Screenshot_2019-04-24-11-50-46-425_com.amitshekhar.tflite.png" height="500" width="250">
